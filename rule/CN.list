@@ -691,4 +691,3 @@ DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
-IP-CIDR,198.18.0.1/16,REJECT,no-resolve
