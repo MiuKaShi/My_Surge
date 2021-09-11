@@ -1,0 +1,39 @@
+# USA Area Network
+# HBO NOW & Max
+USER-AGENT,HBO%20NOW*
+DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,hbonow.com
+USER-AGENT,HBOMAX*
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbomaxcdn.com
+# Showtime
+DOMAIN-SUFFIX,sho.com
+DOMAIN-SUFFIX,showtime.com
+# DirecTV NOW
+DOMAIN-SUFFIX,att.com
+DOMAIN-SUFFIX,codec-cluster.org
+DOMAIN-SUFFIX,conviva.com
+DOMAIN-SUFFIX,directv.com
+DOMAIN-SUFFIX,directvnow.com
+DOMAIN-SUFFIX,dtvce.com
+DOMAIN-SUFFIX,footprint.net
+DOMAIN-SUFFIX,imrworldwide.com
+DOMAIN-SUFFIX,inq.com
+DOMAIN-SUFFIX,omtrdc.net
+# Sling TV
+DOMAIN-SUFFIX,adrta.com
+DOMAIN-SUFFIX,adsrvr.org
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,doubleverify.com
+DOMAIN-SUFFIX,fwmrm.net
+DOMAIN-SUFFIX,innovid.com
+DOMAIN-SUFFIX,movetv.com
+DOMAIN-SUFFIX,omtrdc.net
+DOMAIN-SUFFIX,scorecardresearch.com
+DOMAIN-SUFFIX,serving-sys.com
+DOMAIN-SUFFIX,sling.com
+DOMAIN-SUFFIX,spotxchange.com
+DOMAIN-SUFFIX,tremorhub.com
+DOMAIN-SUFFIX,videoamp.com
