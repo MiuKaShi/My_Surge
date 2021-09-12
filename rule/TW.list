@@ -11,3 +11,5 @@ DOMAIN-SUFFIX,viblast.com
 USER-AGENT,TaiwanGood*
 DOMAIN-SUFFIX,skyking.com.tw
 DOMAIN,hamifans.emome.net
+# TW Speedtest
+DOMAIN-SUFFIX,ntu.edu.tw
